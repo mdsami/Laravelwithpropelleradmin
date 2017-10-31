@@ -43,7 +43,7 @@
                 {{ csrf_field() }}
                 <div class="pmd-card-title card-header-border text-center">
                     <div class="loginlogo">
-                        <a href="javascript:void(0);"><img src="/images/logo-icon.png" alt="Logo"></a>
+                        <a href="javascript:void(0);"><img src="images/logo-icon.png" alt="Logo"></a>
                     </div>
                     <!-- <h3>Sign In <span>with <strong>PROPELLER</strong></span></h3> -->
                 </div>
@@ -101,9 +101,9 @@
         <div class="register-card">
             <div class="pmd-card-title card-header-border text-center">
                 <div class="loginlogo">
-                    <a href="javascript:void(0);"><img src="themes/images/logo-icon.png" alt="Logo"></a>
+                    <a href="javascript:void(0);"><img src="images/logo-icon.png" alt="Logo"></a>
                 </div>
-                <h3>Sign Up <span>with <strong>PROPELLER</strong></span></h3>
+                <h3>Sign Up <span>with <strong>Here</strong></span></h3>
             </div>
             <form>
                 <div class="pmd-card-body">
